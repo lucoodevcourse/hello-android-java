@@ -24,6 +24,8 @@ local.properties
 # IDEA files
 .idea/
 *.iml
+*.ipr
+*.iws
 
 # Eclipse files
 .project
@@ -35,3 +37,6 @@ local.properties
 gradle/
 gradlew
 gradlew.bat
+
+# Junk
+.DS_Store
